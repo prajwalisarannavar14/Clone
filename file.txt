@@ -4,3 +4,5 @@ class FirstProgram
 	{
 		int a=10;
 		sydtem.out.println("hello world")
+	}
+}
