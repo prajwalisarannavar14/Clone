@@ -1,1 +1,6 @@
-123456789
+class FirstProgram
+{
+	public static void main(string args[])
+	{
+		int a;
+		sydtem.out.println("hello world")
