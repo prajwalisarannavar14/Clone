@@ -2,5 +2,5 @@ class FirstProgram
 {
 	public static void main(string args[])
 	{
-		int a;
+		int a=10;
 		sydtem.out.println("hello world")
